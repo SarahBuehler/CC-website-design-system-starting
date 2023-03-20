@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
 
 body {
   width: 100%;
@@ -43,7 +43,7 @@ section {
 }
 
 .code-font {
-  font-family: "Major Mono Display";
+  font-family: "Share Tech Mono";
   font-size: normal;
 }
 .h-font {
@@ -83,7 +83,7 @@ section {
   color: #111111;
 }
 .testSection > .code {
-  font-family: "Major Mono Display";
+  font-family: "Share Tech Mono";
   font-weight: 400;
   font-size: normal;
 }
