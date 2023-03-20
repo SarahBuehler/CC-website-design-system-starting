@@ -61,6 +61,33 @@ section {
   height: 200px;
 }
 
+.testSection {
+  background-color: #eef8ff;
+}
+.testSection > h1 {
+  font-family: "PT Sans Narrow";
+  font-weight: 700;
+  font-size: x-large;
+  color: #7d53de;
+}
+.testSection > h2 {
+  font-family: "PT Sans Narrow";
+  font-weight: 700;
+  font-size: 24px;
+  color: #7d53de;
+}
+.testSection > p {
+  font-family: "PT Sans Narrow";
+  font-weight: 400;
+  font-size: normal;
+  color: #111111;
+}
+.testSection > .code {
+  font-family: "Major Mono Display";
+  font-weight: 400;
+  font-size: normal;
+}
+
 footer {
   text-align: center;
 }
