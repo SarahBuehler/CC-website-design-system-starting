@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap");
+
+body {
+  width: 100%;
+}
+main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+section {
+  height: 100%;
+  border: 1px solid black;
+  margin: 20px 0;
+  padding: 20px;
+}
+.bigBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10px 10px;
+  padding: 10px 10px;
+  text-align: center;
+}
+
+.smBox {
+  border-radius: 15%;
+  height: 200px;
+  width: 200px;
+}
+
+.bg-color {
+  background-color: #eef8ff;
+}
+.h-color {
+  background-color: #eef8ff;
+  color: #7d53de;
+}
+.p-color {
+  background-color: #eef8ff;
+  color: #111111;
+}
+
+.code-font {
+  font-family: "Major Mono Display";
+  font-size: normal;
+}
+.h-font {
+  font-family: "PT Sans Narrow";
+  font-weight: 700;
+  font-size: 24px;
+}
+.p-font {
+  font-family: "PT Sans Narrow";
+  font-weight: 400;
+  font-size: normal;
+}
+.fBox {
+  border-radius: 15%;
+  height: 200px;
+}
